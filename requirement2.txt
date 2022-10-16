@@ -1,0 +1,3 @@
+# CPU: i7
+# GPU: nvidia
+# RAM: 16gb
