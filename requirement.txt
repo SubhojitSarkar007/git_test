@@ -5,3 +5,6 @@ seaborn
 matplotlib
 
 ## today we will learn about the git
+
+import numpy as np
+import pandas as pd
