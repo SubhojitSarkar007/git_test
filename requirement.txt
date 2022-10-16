@@ -1,0 +1,7 @@
+pandas 
+numpy
+seaborn
+
+matplotlib
+
+## today we will learn about the git
